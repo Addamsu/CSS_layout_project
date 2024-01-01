@@ -1,0 +1,73 @@
+
+    
+.logo-docplanner {
+    width: 268px;
+    height: 33px;
+}
+
+
+.section__inner {
+    zoom: 1;
+    max-width: 1015px;
+    padding: 0 20px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.nav-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-menu{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.main-menu a{
+    text-decoration: none;
+}
+.lead__logo{
+    display: block;
+    margin: 0 auto;
+}
+.lead h1{
+text-align: center;    
+}
+
+.grid{
+    display: flex;
+}
+
+h1, h2, h3, h4 {
+    margin: 1em 0;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+}
+.services__item--saas {
+    background-color:rgb(82, 199, 235);
+    margin: 20px;
+}
+.services__item--marketplace{
+    background-color: blanchedalmond;
+    margin: 20px;
+    padding: 20px;
+    border: 10px;
+
+}
+.services__item--clinics{
+    background-color: cadetblue;
+    margin: 20px;
+    padding: 20px;
+    border: 10px;
+
+}
+.fade-elements__visible{
+    justify-content: space-between;
+    margin: 20px;
+    padding: 20px;
+    border: 10px;
+
+}
